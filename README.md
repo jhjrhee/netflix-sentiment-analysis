@@ -1,3 +1,3 @@
 # netflix-sentiment-analysis
 
-Group Members: Divya Nataraj
+Group Members: Divya Nataraj  Judy Rhee
